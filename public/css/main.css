@@ -1,0 +1,16 @@
+.img{
+    width: 95vw;
+    height: 92vh;
+    background-image: url('/img/erro.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    overflow: hidden;
+    position: relative;
+}
+
+#btn-voltar{
+    position: absolute;
+    top: 15%;
+    right: 15%;
+}
