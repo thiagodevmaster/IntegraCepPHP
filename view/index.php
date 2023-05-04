@@ -11,7 +11,7 @@
 <br>
 <hr>
 <br>
-<div class="mb-5">
+<div class="mb-5 table-responsive">
 <table id="table-enderecos" class="table table-dark table-striped mb-4" style="width:100%">
         <thead>
             <tr>
